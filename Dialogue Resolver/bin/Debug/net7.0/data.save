@@ -1,0 +1,79 @@
+{
+  "CharacterName": "Mark",
+  "DialogueText": "Hello! Welcome to my shop! How can I assist you?",
+  "left": {
+    "CharacterName": "John",
+    "DialogueText": "Greetings! I am looking for a magic potion.",
+    "left": {
+      "CharacterName": "John",
+      "DialogueText": "How much does it cost?",
+      "left": {
+        "CharacterName": "John",
+        "DialogueText": "Here you go!",
+        "left": null,
+        "right": null,
+        "key": 3
+      },
+      "right": null,
+      "key": 4
+    },
+    "right": {
+      "CharacterName": "Mark",
+      "DialogueText": "Yes ofcourse! Here it is!",
+      "left": null,
+      "right": {
+        "CharacterName": "Mark",
+        "DialogueText": "60 gold coins",
+        "left": null,
+        "right": {
+          "CharacterName": "Mark",
+          "DialogueText": "Tank you very much! Come again!",
+          "left": null,
+          "right": null,
+          "key": 9
+        },
+        "key": 8
+      },
+      "key": 7
+    },
+    "key": 5
+  },
+  "right": {
+    "CharacterName": "John",
+    "DialogueText": "Give me a magic potion and hurry up!",
+    "left": {
+      "CharacterName": "Mark",
+      "DialogueText": "Mind your tone! Here it is...",
+      "left": null,
+      "right": {
+        "CharacterName": "Mark",
+        "DialogueText": "80 gold coins",
+        "left": null,
+        "right": {
+          "CharacterName": "Mark",
+          "DialogueText": "Whatever..",
+          "left": null,
+          "right": null,
+          "key": 13
+        },
+        "key": 12
+      },
+      "key": 11
+    },
+    "right": {
+      "CharacterName": "John",
+      "DialogueText": "Name your price...",
+      "left": null,
+      "right": {
+        "CharacterName": "John",
+        "DialogueText": "Mmhh",
+        "left": null,
+        "right": null,
+        "key": 17
+      },
+      "key": 16
+    },
+    "key": 15
+  },
+  "key": 10
+}

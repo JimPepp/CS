@@ -1,0 +1,17 @@
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\obj\Debug\net7.0\Dialogue Resolver.csproj.AssemblyReference.cache
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\obj\Debug\net7.0\Dialogue Resolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\obj\Debug\net7.0\Dialogue Resolver.AssemblyInfoInputs.cache
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\obj\Debug\net7.0\Dialogue Resolver.AssemblyInfo.cs
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\obj\Debug\net7.0\Dialogue Resolver.csproj.CoreCompileInputs.cache
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\bin\Debug\net7.0\Dialogue Resolver.exe
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\bin\Debug\net7.0\Dialogue Resolver.deps.json
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\bin\Debug\net7.0\Dialogue Resolver.runtimeconfig.json
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\bin\Debug\net7.0\Dialogue Resolver.dll
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\bin\Debug\net7.0\Dialogue Resolver.pdb
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\obj\Debug\net7.0\Dialogue Resolver.csproj.CopyComplete
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\obj\Debug\net7.0\Dialogue Resolver.dll
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\obj\Debug\net7.0\refint\Dialogue Resolver.dll
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\obj\Debug\net7.0\Dialogue Resolver.pdb
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\obj\Debug\net7.0\Dialogue Resolver.genruntimeconfig.cache
+D:\Programming\C# Programming\Dialogue Resolver\Dialogue Resolver\obj\Debug\net7.0\ref\Dialogue Resolver.dll

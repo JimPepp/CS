@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "egeq1k0eZYZSmh/aYK5B7to/97wxPK++I98fRlGU2/LznWdijS4RwHu++HlLvO+Vbs0anN+0j5v2z4VcAl6BaQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\C# Programming\\Dialogue Resolver\\Dialogue Resolver\\Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\meets\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
