@@ -6,6 +6,18 @@
  *                                                           *
  * Completion Time  :   5:30h                                *
  *                                                           *
+ *              * * * Bonus Assignment * * *                 *
+ *         I used a binary search tree in order to have      *
+ *       multiple paths between dialogues. Using a key       *
+ *       in each node, I arranged the tree in the foll-      *
+ *       owing way.                                          *
+ *         All positive dialogue is on the left side of      *
+ *       the tree, while all the negative dialogue is        *
+ *       stored on the right. Key values from 0-5 and        *
+ *       15-20 correspond to the player's responses.         *
+ *       While from 6-14 are the shopkeepers responses,      *
+ *       with 10 being the root of the binary tree.          *
+ *                                                           *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 using System.ComponentModel.DataAnnotations;
 using System.IO;
